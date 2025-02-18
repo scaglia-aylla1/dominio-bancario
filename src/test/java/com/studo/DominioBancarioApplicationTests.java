@@ -1,4 +1,4 @@
-package com.studo.dominio.bancario;
+package com.studo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

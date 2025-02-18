@@ -1,4 +1,4 @@
-package com.studo.dominio.bancario;
+package com.studo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
